@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kurenaido&display=swap');
+/* font-family: 'Zen Kurenaido', sans-serif; */
+
+body {
+  font: normal 14px/100% 'Zen Kurenaido', sans-serif;
+  color: #fff;
+  padding: 50px;
+  width: 800px;
+  margin: 0 auto;
+  background-image: url(Images/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+.container {
+  border: 6px solid #fff;
+  border-radius: 20px;
+  margin: 35% auto;
+  background-color:rgba(0,0,0,0.8);
+}
+
